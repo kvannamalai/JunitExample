@@ -1,4 +1,4 @@
-ackage com.mslc;
+ckage com.mslc;
 
 import static org.junit.Assert.assertEquals;
 
@@ -27,6 +27,6 @@ public class TestHelloWorld {
 	   {
 	      h.setName("World");
 	      assertEquals(h.getName(),"World");
-	      assertEquals(h.getMessage(),"Hello World !");
+	      assertEquals(h.getMessage(),"Hello World!");
 	   }
 }
